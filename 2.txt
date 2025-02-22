@@ -1,0 +1,13 @@
+Bilgisayarlarda gün içerisinde (son 24 saat veya oturum açtıktan sonra geçen zaman);
+
+1.     Çalışan veya çalışmış programların bilgilerine,
+
+2.    Yeni kurulmuş veya silinmiş programların bilgilerine
+
+3.     Açılan klasör ve belgelerin bilgilerine nereden ve nasıl ulaşabilirim?
+
+Windows bilgisayarlarda en son kurulan, kaldırılan ve çalıştırılan program adları, bu programların çalışma süreleri, açılan klasör ve belgeleri listeleyen bir yazılım geliştiriniz. C, python, java vb programlama dili kullanabilirsiniz.
+
+Yukarıda verilen soruları açıklayacak bir  word dosyası oluşturunuz. Word dosyasını  ve geliştirdiğiniz yazılımı sisteme yükleyiniz. 
+
+İyi Çalışmalar
